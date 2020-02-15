@@ -1,2 +1,2 @@
 # cooliosite
-cooliosite.github.io, site for coolio/properlypsychotic
+cooliosite.github.io/cooliosite, site for coolio/properlypsychotic
